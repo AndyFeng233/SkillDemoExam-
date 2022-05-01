@@ -7,7 +7,7 @@ public class skillDemoTest {
     
     @Test
     public void testMultiply() {
-        assertEquals(7, skillDemo.multiply(2, 3));
+        assertEquals(6, skillDemo.multiply(2, 3));
     }
 
 }
